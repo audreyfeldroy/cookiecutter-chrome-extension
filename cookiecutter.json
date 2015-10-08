@@ -1,0 +1,8 @@
+{
+  "project_name": "Chrome Extension Boilerplate",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "description": "A minimal Google Chrome extension.",
+  "version": "0.1.0",
+  "year": "2015",
+  "full_name": "Audrey Roy Greenfeld"
+}
